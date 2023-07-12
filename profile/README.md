@@ -69,11 +69,11 @@
 <br>
 
 ## 프로젝트 소개
-`포레피`는 비건 레시피를 공유하고자 만들게 된 플랫폼입니다. 
-<br>
-비건 식단을 지향하는 사용자들에게 편리하고 유용한 기능을 제공하여 맛과 건강을 동시에 만족시킬 수 있지만,
-<br>
-비건 식단을 지향하지 않는 사용자들 역시 건강하고 맛있는 다양한 레시피를 공유하고 상호작용 할 수 있습니다.
+> `포레피`는 비건 레시피를 공유하고자 만들게 된 플랫폼입니다. 
+> <br>
+> 비건 식단을 지향하는 사용자들에게 편리하고 유용한 기능을 제공하여 맛과 건강을 동시에 만족시킬 수 있지만,
+> <br>
+>비건 식단을 지향하지 않는 사용자들 역시 건강하고 맛있는 다양한 레시피를 공유하고 상호작용 할 수 있습니다.
 
 
 <br>
@@ -125,6 +125,15 @@
 ### Communication
 ![Discord](https://img.shields.io/badge/discord-5865F2?style=for-the-badge&logo=discord&logoColor=white)
 ![Notion](https://img.shields.io/badge/notion-000000?style=for-the-badge&logo=notion&logoColor=white)
+
+<br>
+
+
+## 아키텍쳐
+
+<br>
+
+## 디렉토리 구조
 
 
 
