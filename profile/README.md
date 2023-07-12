@@ -130,6 +130,8 @@
 
 
 ## 아키텍쳐
+<img width="600" alt="image" src="https://github.com/mtvs-merge/.github/assets/119282494/b84514a4-d533-4326-8198-770fa9535185">
+
 
 <br>
 
