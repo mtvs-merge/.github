@@ -69,11 +69,11 @@
 <br>
 
 ## 프로젝트 소개
-> `포레피`는 비건 레시피를 공유하고자 만들게 된 플랫폼입니다. 
+> **`포레피`는 `비건 레시피 공유` 플랫폼입니다.**
 > <br>
-> 비건 식단을 지향하는 사용자들에게 편리하고 유용한 기능을 제공하여 맛과 건강을 동시에 만족시킬 수 있지만,
+> **비건 식단을 지향하는 사용자들에게 편리하고 유용한 기능을 제공하여 맛과 건강을 동시에 만족시킬 수 있지만,**
 > <br>
->비건 식단을 지향하지 않는 사용자들 역시 건강하고 맛있는 다양한 레시피를 공유하고 상호작용 할 수 있습니다.
+>**비건 을 지향하지 않는 사용자들 역시 건강하고 맛있는 다양한 레시피들을 공유하며 상호작용 할 수 있습니다.**
 
 
 <br>
@@ -87,6 +87,7 @@
 
 #### ✅ 게시글 업로드에 따라 포인트가 제공됩니다.
 - 제공된 포인트를 통해 본인의 글을 일정 시간 하이라이트 게시판에 게재할 수 있습니다.
+- 뿐만 아니라, 랜덤으로 선정하여 본인의 게시글이 메인 홈페이지에 노출되기도 합니다.
 
 
 #### ✅ 사용자만의 나무를 제공합니다. (1인 1나무)
@@ -96,8 +97,39 @@
 
 <br>
 
+## 프로젝트 세부사항
+
+기능 | 세부 사항
+---| --- |
+로그인 | 카카오 API를 이용하여 로그인한다.
+게시글 | 게시글에 대해 작성, 수정, 삭제, 공감한다.
+리뷰 | 레시피에 대한 리뷰를 작성한다.
+신고 | 부적절한 리뷰 혹은 게시글을 신고한다.
+관리자 | 블랙리스트와 신고글을 관리한다.
 
 
+  <br>
+
+
+## 아키텍쳐
+
+  <div align="center">
+<img width="700" alt="image" src="https://github.com/mtvs-merge/.github/assets/119282494/70c5e8fb-1bd4-4d4d-8d0b-79aa3000604f">
+
+  </div>
+
+<br>
+
+## DB 모델링
+
+  <div align="center">
+<img width="700" alt="image" src="https://github.com/mtvs-merge/.github/assets/119282494/4bf1ad8e-2b42-4dbd-aa45-941695524e28">
+
+</div>
+
+## 디렉토리 구조
+
+<br>
 
 ## 기술 스택
 #### Environment
@@ -116,22 +148,6 @@
 #### Communication
 ![Discord](https://img.shields.io/badge/discord-5865F2?style=for-the-badge&logo=discord&logoColor=white)
 ![Notion](https://img.shields.io/badge/notion-000000?style=for-the-badge&logo=notion&logoColor=white)
-
-<br>
-
-
-## 아키텍쳐
-<img width="600" alt="image" src="https://github.com/mtvs-merge/.github/assets/119282494/b84514a4-d533-4326-8198-770fa9535185">
-
-
-<br>
-
-## DB 모델링
-
-<img width="600" alt="image" src="https://github.com/mtvs-merge/.github/assets/119282494/54d0a29f-bf63-4f08-890f-6754f04a3610">
-
-
-## 디렉토리 구조
 
 
 
