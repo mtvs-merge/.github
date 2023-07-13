@@ -56,10 +56,10 @@
   </tr>
 
    <tr>
-    <td align="center"><strong>로그인</strong></td>
-    <td align="center"><strong>마이 페이지</strong></td>
-    <td align="center"><strong>게시판</strong></td>
-    <td align="center"><strong>댓글 <br> 화면구현</strong></td>
+    <td align="center"><strong>회원</strong></td>
+    <td align="center"><strong>신고</strong></td>
+    <td align="center"><strong>게시글</strong></td>
+    <td align="center"><strong>화면 구현</strong></td>
     <td align="center"><strong>관리자 페이지</strong></td>
   </tr>
 </table>
