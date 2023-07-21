@@ -64,9 +64,9 @@
     <td align="center"><strong>회원</strong></td>
     <td align="center"><strong>신고</strong></td>
     <td align="center"><strong>게시판</strong></td>
-    <td align="center"><strong>댓글 <br> 화면구현</strong></td>
+    <td align="center"><strong> 화면구현</strong></td>
     <td align="center"><strong>관리자 페이지</strong></td>
-    <td align="center"><strong>게시판 / 신고</strong></td>
+    <td align="center"><strong>게시판 <br> 신고</strong></td>
   </tr>
 </table>
 <br>
