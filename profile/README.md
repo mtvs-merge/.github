@@ -95,7 +95,7 @@
 
 ### 게시 페이지
 <img width="1000" alt="KakaoTalk_20230731_071430233" src="https://github.com/mtvs-merge/.github/assets/119282494/31cd3ae6-5049-45c0-834a-3b0d2993e3f3">
-
+<img width="1000" alt="KakaoTalk_20230731_072154458" src="https://github.com/mtvs-merge/.github/assets/119282494/09820a41-a567-4e8d-8d99-4803d2ee7b5c">
 
 <br>
 <br>
