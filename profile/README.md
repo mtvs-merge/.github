@@ -80,6 +80,35 @@
 >**비건 을 지향하지 않는 사용자들 역시 건강하고 맛있는 다양한 레시피들을 공유하며 상호작용 할 수 있습니다.**
 
 
+## FOREPE - pages
+<br>
+
+  <div align="center">
+    
+   ### 메인페이지
+    
+<img width="1000" alt="image" src="https://github.com/mtvs-merge/.github/assets/119282494/b33a072e-d809-47ce-bdb9-af98c8f8fce8">
+
+
+<br>
+<br>
+
+### 게시 페이지
+<img width="1000" alt="KakaoTalk_20230731_071430233" src="https://github.com/mtvs-merge/.github/assets/119282494/31cd3ae6-5049-45c0-834a-3b0d2993e3f3">
+
+
+<br>
+<br>
+
+
+    
+### 방명록 페이지
+<img width="1000" alt="KakaoTalk_20230731_071647765" src="https://github.com/mtvs-merge/.github/assets/119282494/0295db7d-1f84-478b-9ccf-8fe343a33af8">
+</div>
+
+
+
+<br>
 <br>
 
 ## 주요 기능 
@@ -125,7 +154,6 @@
 
 
 ## 아키텍쳐
-
 
 ### 프로젝트 구조
 
@@ -198,6 +226,9 @@
  ┃ ┃ ┃ ┃ ┃ ┃ ┗ ⚙️application.yml
  ┗ 📂test
 ```
+
+
+## CQRS 구조
 
   <div align="center">
 <img width="700" alt="image" src="https://github.com/mtvs-merge/.github/assets/119282494/70c5e8fb-1bd4-4d4d-8d0b-79aa3000604f">
