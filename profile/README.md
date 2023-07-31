@@ -12,8 +12,6 @@
 </div>
 
 
-
-
 ## Team Merge
 > **메타버스 아카데미 2기** <br/> **개발기간: 2022.07.03 ~ 2022.07.31**
 
@@ -26,9 +24,34 @@
 > <br> 
 > **백엔드 서버** : 
 
+<br>
 
+## 기술 스택
+#### Environment
+<img src="https://img.shields.io/badge/Intelii J-000000?style=for-the-badge&logo=intellijidea&logoColor=white"> <img src="https://img.shields.io/badge/GitHub-000000?style=for-the-badge&logo=github&logoColor=white">
+
+#### Development
+![Java](https://img.shields.io/badge/java-007396?style=for-the-badge&logo=java&logoColor=white)
+![springboot](https://img.shields.io/badge/springboot-6DB33F?style=for-the-badge&logo=springboot&logoColor=white)
+![MYSQL](https://img.shields.io/badge/mysql-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
+<br>
+![Html](https://img.shields.io/badge/html5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
+![Css](https://img.shields.io/badge/css-1572B6?style=for-the-badge&logo=css3&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=Javascript&logoColor=white)
+
+#### Communication
+![Discord](https://img.shields.io/badge/discord-5865F2?style=for-the-badge&logo=discord&logoColor=white)
+![Notion](https://img.shields.io/badge/notion-000000?style=for-the-badge&logo=notion&logoColor=white)
 
 <br>
+
+## Repository
+
+> **[FOREPE Repository](https://github.com/mtvs-merge/forvegan-backend)**
+
+<br>
+
+
 
 ## Team : Merge
 <table>
@@ -79,34 +102,13 @@
 > <br>
 >**비건 을 지향하지 않는 사용자들 역시 건강하고 맛있는 다양한 레시피들을 공유하며 상호작용 할 수 있습니다.**
 
+<br>
+<br>
 
 ## FOREPE - pages
-<br>
-
-  <div align="center">
+### 메인페이지
     
-   ### 메인페이지
-    
-<img width="1000" alt="image" src="https://github.com/mtvs-merge/.github/assets/119282494/b33a072e-d809-47ce-bdb9-af98c8f8fce8">
-
-
-<br>
-<br>
-
-### 게시 페이지
-<img width="1000" alt="KakaoTalk_20230731_071430233" src="https://github.com/mtvs-merge/.github/assets/119282494/31cd3ae6-5049-45c0-834a-3b0d2993e3f3">
-<img width="1000" alt="KakaoTalk_20230731_072154458" src="https://github.com/mtvs-merge/.github/assets/119282494/09820a41-a567-4e8d-8d99-4803d2ee7b5c">
-
-<br>
-<br>
-
-
-    
-### 방명록 페이지
-<img width="1000" alt="KakaoTalk_20230731_071647765" src="https://github.com/mtvs-merge/.github/assets/119282494/0295db7d-1f84-478b-9ccf-8fe343a33af8">
-</div>
-
-
+<img width="700" alt="image" src="https://github.com/mtvs-merge/.github/assets/119282494/b33a072e-d809-47ce-bdb9-af98c8f8fce8">
 
 <br>
 <br>
@@ -228,7 +230,7 @@
 ```
 
 
-## CQRS 구조
+## Context Map
 
   <div align="center">
 <img width="700" alt="image" src="https://github.com/mtvs-merge/.github/assets/119282494/70c5e8fb-1bd4-4d4d-8d0b-79aa3000604f">
@@ -244,27 +246,12 @@
 
 </div>
 
-## 디렉토리 구조
 
 <br>
 
-## 기술 스택
-#### Environment
-<img src="https://img.shields.io/badge/Intelii J-000000?style=for-the-badge&logo=intellijidea&logoColor=white"> <img src="https://img.shields.io/badge/GitHub-000000?style=for-the-badge&logo=github&logoColor=white">
-
-#### Development
-![Java](https://img.shields.io/badge/java-007396?style=for-the-badge&logo=java&logoColor=white)
-![springboot](https://img.shields.io/badge/springboot-6DB33F?style=for-the-badge&logo=springboot&logoColor=white)
-![MYSQL](https://img.shields.io/badge/mysql-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
-<br>
-![Html](https://img.shields.io/badge/html5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
-![Css](https://img.shields.io/badge/css-1572B6?style=for-the-badge&logo=css3&logoColor=white)
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=Javascript&logoColor=white)
 
 
-#### Communication
-![Discord](https://img.shields.io/badge/discord-5865F2?style=for-the-badge&logo=discord&logoColor=white)
-![Notion](https://img.shields.io/badge/notion-000000?style=for-the-badge&logo=notion&logoColor=white)
+
 
 
 
